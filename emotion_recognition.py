@@ -113,11 +113,11 @@ def show_webcam():
   return emotion_list[stable_emotion]
 
   
-# def main():
-#     show_webcam()
+def main():
+    show_webcam()
 
-# if __name__ == "__main__":
-#     main()
+if __name__ == "__main__":
+    main()
 
       
   
